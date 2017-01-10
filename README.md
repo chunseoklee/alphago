@@ -1,5 +1,6 @@
 # Paper
 Mastering the game of Go with deep neural networks and tree search
+http://willamette.edu/~levenick/cs448/goNature.pdf
 
 # Nature link
 http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html
