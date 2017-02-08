@@ -11,6 +11,9 @@ http://www3.cs.stonybrook.edu/~cse634/G6present.pdf
 # Test Own Engine(gnugo gtp protocol)
 Refer to run.sh
 
+# Excercise
+## AlphaToe : https://github.com/DanielSlater/AlphaToe
+
 # Reference
 ## Game Tree
 https://www.cs.cmu.edu/~adamchik/15-121/lectures/Game%20Trees/Game%20Trees.html
