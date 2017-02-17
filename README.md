@@ -20,3 +20,6 @@ https://www.cs.cmu.edu/~adamchik/15-121/lectures/Game%20Trees/Game%20Trees.html
 
 ## deeplearning4j
 https://deeplearning4j.org/neuralnet-overview
+
+## NN basic in Korean
+http://sanghyukchun.github.io/74/
